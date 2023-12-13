@@ -37,6 +37,7 @@ p {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  max-height: 800px;
   padding-left: 100px;
   padding-right: 100px;
 }
@@ -45,7 +46,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: 1280px;
+  max-width: 1080px;
 }
 
 //buttons
@@ -101,5 +102,23 @@ p {
     color: var(--primary_yellow);
     background-color: var(--primary_white);
     
+  }
+}
+.button_type_04 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 156px;
+  height: 50px;
+  color: var(--primary_white);
+  background-color: var(--primary_light_blue);
+  font-weight: 600;
+  border: 2px solid var(--primary_yellow);
+  border-radius: 50px;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--primary_light_blue);
+    background-color: var(--primary_white);    
   }
 }
