@@ -5,6 +5,7 @@ import Highlight01 from "./components/Highlights/Highlight01";
 import Highlight02 from "./components/Highlights/Highlight02";
 import Services from "./components/Market/Services";
 import Products from "./components/Market/Products";
+import Team from "./components/Team/Team";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Services />
       <Highlight02 />
       <Products />
+      <Team />
     </>
   );
 }
