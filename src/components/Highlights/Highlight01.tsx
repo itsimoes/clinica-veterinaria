@@ -10,7 +10,7 @@ const Highlight01 = () => {
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos
             blanditiis sapiente earum voluptatibus dolorum necessitatibus eius
-            fugit
+            fugit.            
           </p>
           <a className="button_type_03">Nossos Serviços</a>
         </div>
