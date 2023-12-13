@@ -6,6 +6,7 @@ import Highlight02 from "./components/Highlights/Highlight02";
 import Services from "./components/Market/Services";
 import Products from "./components/Market/Products";
 import Team from "./components/Team/Team";
+import Numbers from "./components/Numbers/Numbers";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Highlight02 />
       <Products />
       <Team />
+      <Numbers />
     </>
   );
 }

@@ -1,0 +1,38 @@
+.numbers_wrapper {    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    background: url("../../assets/numbers_bg.png") center no-repeat;
+    background-size: cover;
+    color: var(--primary_white);
+}
+
+.numbers_container {
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1080px;
+}
+
+.numbers_card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h3 {
+        font-size: 30px;
+    }
+    .numbers_icon {
+        padding: 30px;
+    }
+    .numbers_quantity {
+        font-weight: 400;
+    }
+}
