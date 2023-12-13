@@ -1,0 +1,28 @@
+.highlights_container {
+  h2 {
+    font-size: 40px;
+  }
+}
+
+.embed_video {
+  width: 400px;
+  min-width: 400px;
+  height: 400px;
+  margin-left: 30px;
+}
+
+.embed_video_container {
+  width: 430px;
+  height: 430px;
+  position: relative;
+
+  &::before {
+    content: "";
+    background-color: var(--primary_yellow);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: -1;
+    bottom: 0;
+  }
+}

@@ -1,12 +1,13 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.scss";
 import Home from "./components/Home/Home";
+import Highlight01 from "./components/Highlights/Highlight01";
 
 function App() {
   return (
     <>
       <Home />
+      <Highlight01 />
     </>
   );
 }
