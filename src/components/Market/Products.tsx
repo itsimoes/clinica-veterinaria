@@ -8,7 +8,7 @@ import ProductsCard03 from "../../assets/products_card_03.png";
 
 const Products = () => {
   return (
-    <div className="wrapper market_wrapper">
+    <div id="products" className="wrapper market_wrapper">
       <div className="container market_container">
         <div className="market_text_container">
           <h2>Filhotes</h2>
