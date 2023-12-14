@@ -23,21 +23,21 @@ const Products = () => {
             <h3>
               <span>R$ 900</span> R$ 500
             </h3>
-            <a className="button_type_04">Adotar</a>
+            <a className="button_type_4">Adotar</a>
           </div>
           <div className="market_card_container">
             <img className="market_card" src={ProductsCard02} alt="" />
             <h3>
               <span>R$ 700</span> R$ 400
             </h3>
-            <a className="button_type_04">Adotar</a>
+            <a className="button_type_4">Adotar</a>
           </div>
           <div className="market_card_container">
             <img className="market_card" src={ProductsCard03} alt="" />
             <h3>
               <span>R$ 600</span> R$ 300
             </h3>
-            <a className="button_type_04">Adotar</a>
+            <a className="button_type_4">Adotar</a>
           </div>
         </div>
       </div>
