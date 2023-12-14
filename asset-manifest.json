@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/clinica-veterinaria/static/css/main.2610244e.css",
+    "main.js": "/clinica-veterinaria/static/js/main.4326810c.js",
+    "static/js/787.39ec5e5f.chunk.js": "/clinica-veterinaria/static/js/787.39ec5e5f.chunk.js",
+    "static/media/numbers_bg.png": "/clinica-veterinaria/static/media/numbers_bg.da1d60be0d9e0024132f.png",
+    "static/media/home_dog.png": "/clinica-veterinaria/static/media/home_dog.92c4af64deabbb4a4a8b.png",
+    "static/media/news_card_03.png": "/clinica-veterinaria/static/media/news_card_03.3d755892c39860e73df6.png",
+    "static/media/news_card_01.png": "/clinica-veterinaria/static/media/news_card_01.e19d37121c29b4a29714.png",
+    "static/media/news_card_02.png": "/clinica-veterinaria/static/media/news_card_02.903cfa7565820d7940ed.png",
+    "static/media/team_card_03.png": "/clinica-veterinaria/static/media/team_card_03.b46674b71bb6dfa1fa28.png",
+    "static/media/services_card_03.png": "/clinica-veterinaria/static/media/services_card_03.845571f68065ca92d72f.png",
+    "static/media/team_card_02.png": "/clinica-veterinaria/static/media/team_card_02.516b7283d36816b30728.png",
+    "static/media/services_card_01.png": "/clinica-veterinaria/static/media/services_card_01.13f641d3ce53a6d55253.png",
+    "static/media/services_card_02.png": "/clinica-veterinaria/static/media/services_card_02.8e9aa2c5eefe2862e9de.png",
+    "static/media/team_card_01.png": "/clinica-veterinaria/static/media/team_card_01.3643a1c5dabe346f2398.png",
+    "static/media/products_card_01.png": "/clinica-veterinaria/static/media/products_card_01.4ef57437e028a407331e.png",
+    "static/media/products_card_02.png": "/clinica-veterinaria/static/media/products_card_02.68ccb34faab922981b0f.png",
+    "static/media/products_card_03.png": "/clinica-veterinaria/static/media/products_card_03.e894a8eed923876c506b.png",
+    "static/media/your_logo.png": "/clinica-veterinaria/static/media/your_logo.8934aa831c14c9c10a7b.png",
+    "index.html": "/clinica-veterinaria/index.html",
+    "main.2610244e.css.map": "/clinica-veterinaria/static/css/main.2610244e.css.map",
+    "main.4326810c.js.map": "/clinica-veterinaria/static/js/main.4326810c.js.map",
+    "787.39ec5e5f.chunk.js.map": "/clinica-veterinaria/static/js/787.39ec5e5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2610244e.css",
+    "static/js/main.4326810c.js"
+  ]
+}
