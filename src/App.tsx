@@ -8,6 +8,7 @@ import Products from "./components/Market/Products";
 import Team from "./components/Team/Team";
 import Numbers from "./components/Numbers/Numbers";
 import Navbar from "./components/Navbar/Navbar";
+import News from "./components/News/News";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Products />
       <Team />
       <Numbers />
+      <News />
     </>
   );
 }
