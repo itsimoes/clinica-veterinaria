@@ -1,18 +1,21 @@
 import React from "react";
 import "./style.scss";
+import { Link } from "react-scroll";
 
 const Highlight01 = () => {
   return (
     <div className="wrapper highlight01_wrapper">
       <div className="highlights_container container">
-        <div  id="highlights_text_card_1" className="highlights_text_card">
+        <div id="highlights_text_card_1" className="highlights_text_card">
           <h2>Somos veterinários e amamos os animais.</h2>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos
             blanditiis sapiente earum voluptatibus dolorum necessitatibus eius
-            fugit.            
+            fugit.
           </p>
-          <a className="button_type_03">Nossos Serviços</a>
+          <Link to="services" smooth className="button_type_03">
+            Nossos Serviços
+          </Link>
         </div>
         <div id="embed_video_container_1">
           <iframe

@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.scss";
+import { Link } from "react-scroll";
 
 const Highlight02 = () => {
   return (
@@ -20,7 +21,9 @@ const Highlight02 = () => {
             blanditiis sapiente earum voluptatibus dolorum necessitatibus eius
             fugit.
           </p>
-          <a className="button_type_03">Nossos Serviços</a>
+          <Link to="products" smooth className="button_type_3">
+            Adotar
+          </Link>
         </div>
       </div>
     </div>
