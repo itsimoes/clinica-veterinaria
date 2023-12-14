@@ -9,6 +9,7 @@ import Team from "./components/Team/Team";
 import Numbers from "./components/Numbers/Numbers";
 import Navbar from "./components/Navbar/Navbar";
 import News from "./components/News/News";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <Team />
       <Numbers />
       <News />
+      <Footer />
     </>
   );
 }

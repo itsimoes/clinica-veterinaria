@@ -1,6 +1,7 @@
 :root {
   --primary_yellow: #fcc302;
   --primary_white: white;
+  --primary_gray: #2f2f2f;
   --primary_dark_blue: #313243;
   --primary_light_blue: #00bec9;
   --primary_light_gray: lightgray;
@@ -61,10 +62,12 @@ p {
   font-weight: 600;
   border-radius: 5px;
   cursor: pointer;
+  transition: all 0.3 linear;
 
   &:hover {
     color: var(--primary_light_blue);
     background-color: var(--primary_white);
+    transition: all 0.3 linear;
   }
 }
 
@@ -79,10 +82,12 @@ p {
   border-radius: 5px;
   font-weight: 600;
   cursor: pointer;
+  transition: all 0.3 linear;
 
   &:hover {
     color: var(--primary_yellow);
     background-color: var(--primary_white);
+    transition: all 0.3 linear;
   }
 }
 
@@ -98,11 +103,12 @@ p {
   border: 2px solid var(--primary_yellow);
   border-radius: 5px;
   cursor: pointer;
+  transition: all 0.3 linear;
 
   &:hover {
     color: var(--primary_yellow);
     background-color: var(--primary_white);
-    
+    transition: all 0.3 linear;
   }
 }
 .button_type_4 {
@@ -117,9 +123,11 @@ p {
   border: 2px solid var(--primary_yellow);
   border-radius: 50px;
   cursor: pointer;
+  transition: all 0.3 linear;
 
   &:hover {
     color: var(--primary_light_blue);
-    background-color: var(--primary_white);    
+    background-color: var(--primary_white);
+    transition: all 0.3 linear;
   }
 }
