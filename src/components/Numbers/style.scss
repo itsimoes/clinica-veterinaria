@@ -46,3 +46,30 @@
         font-weight: 400;
     }
 }
+
+ // media query MOBILE
+ @media (max-width: 431px) {
+    .team_wrapper {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .numbers_container {
+        flex-direction: column;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .numbers_card {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        .numbers_icon {
+            width: 80px;
+            padding: 10px;
+        }
+
+        h3 {
+            font-size: 24px;
+        }      
+    }
+}
