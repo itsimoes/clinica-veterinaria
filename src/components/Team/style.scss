@@ -94,3 +94,32 @@
     padding: 4px;
     }
   }
+
+  // media query MOBILE
+@media (max-width: 431px) {
+  .team_wrapper {
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .team_text_container {
+    h2 {
+      font-size: 35px;
+    }
+    p {     
+      width: auto;
+    }
+  }
+
+  .team_cards_wrapper {
+    flex-direction: column;
+  }
+
+  .team_card_container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
