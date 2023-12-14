@@ -5,8 +5,8 @@
   position: absolute;
   height: 100px;
   background-color: rgba(0, 0, 0, 0.2);
-  width: 100vw;
   color: var(--primary_white);
+  width: 100%;
   z-index: 5;
 }
 
@@ -44,4 +44,14 @@
 
 .navbar_link {
     cursor: pointer;
+}
+
+// media query MOBILE
+@media (max-width: 431px) {
+  .navbar_container {
+    padding: 20px ;
+  }
+  .navbar_logo_text_container {
+    display: none;
+  }
 }
