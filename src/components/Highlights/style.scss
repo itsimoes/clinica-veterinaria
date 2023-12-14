@@ -85,15 +85,26 @@
     margin-left: 0;
   }
 
+  .embed_video {
+    width: 300px;
+    min-width: 300px;
+    height: 300px;
+  }
+
   #embed_video_container_1 {
     width: 330px;
     height: 330px;
     margin-top: 25px;
     margin-bottom: 25px;
   }
-  .embed_video {
-    width: 300px;
-    min-width: 300px;
-    height: 300px;
+  #embed_video_container_2 {
+    width: 330px;
+    height: 330px;    
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+    &::before {
+      margin-right: -15px;
+    }
   }
 }
