@@ -17,8 +17,8 @@ const Home = () => {
             Optio, ratione.
           </p>
           <div className="home_button_container">
-            <Link to="contact" className="button_type_1">Contate-nos</Link>
-            <Link to="services" className="button_type_2">Nossos Serviços</Link>
+            <Link to="contact" smooth className="button_type_1">Contate-nos</Link>
+            <Link to="services" smooth className="button_type_2">Nossos Serviços</Link>
           </div>
         </div>
         <img src={HomePet} alt="" className="home_image_card" />
