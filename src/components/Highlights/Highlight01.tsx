@@ -13,7 +13,7 @@ const Highlight01 = () => {
             blanditiis sapiente earum voluptatibus dolorum necessitatibus eius
             fugit.
           </p>
-          <Link to="services" smooth className="button_type_03">
+          <Link to="services" smooth className="button_type_3">
             Nossos Serviços
           </Link>
         </div>
