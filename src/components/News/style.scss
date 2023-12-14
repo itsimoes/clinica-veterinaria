@@ -84,3 +84,28 @@
     cursor: pointer;
   }
 }
+
+ // media query MOBILE
+ @media (max-width: 431px) {
+  .news_wrapper {
+    height: auto;
+    padding: 20px;
+  }
+
+  .news_text_container {
+    h2 {
+      font-size: 35px;
+    }
+    p {     
+      width: auto;
+    }
+  }
+  .news_cards_wrapper {
+    justify-content: center;
+  }
+
+  .news_card_container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
