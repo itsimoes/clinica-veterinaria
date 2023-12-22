@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clinica-veterinaria/static/css/main.2610244e.css",
+    "main.css": "/clinica-veterinaria/static/css/main.746cc7b5.css",
     "main.js": "/clinica-veterinaria/static/js/main.4326810c.js",
     "static/js/787.39ec5e5f.chunk.js": "/clinica-veterinaria/static/js/787.39ec5e5f.chunk.js",
     "static/media/numbers_bg.png": "/clinica-veterinaria/static/media/numbers_bg.da1d60be0d9e0024132f.png",
@@ -19,12 +19,12 @@
     "static/media/products_card_03.png": "/clinica-veterinaria/static/media/products_card_03.e894a8eed923876c506b.png",
     "static/media/your_logo.png": "/clinica-veterinaria/static/media/your_logo.8934aa831c14c9c10a7b.png",
     "index.html": "/clinica-veterinaria/index.html",
-    "main.2610244e.css.map": "/clinica-veterinaria/static/css/main.2610244e.css.map",
+    "main.746cc7b5.css.map": "/clinica-veterinaria/static/css/main.746cc7b5.css.map",
     "main.4326810c.js.map": "/clinica-veterinaria/static/js/main.4326810c.js.map",
     "787.39ec5e5f.chunk.js.map": "/clinica-veterinaria/static/js/787.39ec5e5f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2610244e.css",
+    "static/css/main.746cc7b5.css",
     "static/js/main.4326810c.js"
   ]
 }
