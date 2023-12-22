@@ -65,3 +65,21 @@
     padding-top: 40px;
   }
 }
+
+@media (max-width: 375px) {
+  .home_text_card {
+    text-align: center;
+    margin-right: 0;
+    h1 {
+      font-size: 30px;
+    }
+
+    p {
+      font-size: 16px;
+    }
+  }
+  .home_image_card {
+    width: 120px;
+    padding-top: 40px;
+  }
+}
